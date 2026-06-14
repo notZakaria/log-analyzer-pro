@@ -1,0 +1,9 @@
+[2026-06-14 10:00:00.001] INFO Regression execution started
+[2026-06-14 10:00:02.554] INFO Launching test case Login_102
+[2026-06-14 10:00:06.017] WARNING Deprecated API response received from auth gateway
+[2026-06-14 10:00:11.184] ERROR Exception while validating checksum for artifact build_5917
+[2026-06-14 10:00:11.912] ERROR Exception while validating checksum for artifact build_5918
+[2026-06-14 10:00:17.227] INFO Launching test case Payments_021
+[2026-06-14 10:00:19.510] WARNING Response time threshold exceeded for endpoint /payments/authorize
+[2026-06-14 10:00:26.828] ERROR Failed to persist metrics batch 90012 to collector node 7
+[2026-06-14 10:00:30.305] INFO Regression execution completed with warnings

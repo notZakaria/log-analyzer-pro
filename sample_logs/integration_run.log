@@ -1,0 +1,8 @@
+11:45:00 INFO Boot sequence started for cluster A
+11:45:02 INFO Service discovery completed
+11:45:08 ERROR Connection failed for node id=303 port=443
+11:45:11 ERROR Connection failed for node id=304 port=443
+11:45:14 WARNING Failover route engaged for cluster A
+11:45:18 CRITICAL Fatal unrecoverable state detected in replication manager
+11:45:23 INFO Attempting emergency shutdown
+11:45:25 INFO Shutdown completed

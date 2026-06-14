@@ -1,0 +1,7 @@
+2026-06-14 08:15:01 INFO Test runner started for smoke suite
+2026-06-14 08:15:03 INFO Initializing communication channel on COM7
+2026-06-14 08:15:05 WARNING Retry attempt 1 for telemetry handshake
+2026-06-14 08:15:07 INFO Telemetry handshake completed successfully
+2026-06-14 08:15:11 ERROR Failed to load calibration profile 1824 for device 44
+2026-06-14 08:15:14 ERROR Failed to load calibration profile 1825 for device 44
+2026-06-14 08:15:20 INFO Smoke suite completed
